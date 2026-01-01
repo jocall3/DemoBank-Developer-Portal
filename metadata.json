@@ -1,0 +1,5 @@
+{
+  "name": "DemoBank Developer Portal",
+  "description": "A comprehensive developer platform for DemoBank SDKs, featuring an AI-powered code lab, interactive API explorer, detailed documentation hub, and community support forums.",
+  "requestFramePermissions": []
+}
